@@ -9,6 +9,7 @@
   // Replace contact@example.com with your real receiving email address
   $receiving_email_address = 'shongwekabelo0@gmail.com';
 
+  
   $contact = new mail;
   $contact->ajax = true;
   
